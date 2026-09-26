@@ -1,0 +1,8 @@
+# Database Configuration Example
+# Copy or set these environment variables in local development or production environment
+
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=student_management
+DB_USER=root
+DB_PASSWORD=your_local_password

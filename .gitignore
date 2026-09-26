@@ -1,0 +1,22 @@
+# Maven output
+/target/
+
+# Local database secrets and environment files
+.env
+.env.*
+!.env.example
+db.properties
+
+# Java and packaged artifacts
+*.class
+*.war
+*.jar
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
